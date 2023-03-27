@@ -7,5 +7,4 @@ void main(){
   print(pria);
   String nama = 'Malik';
   print(nama);
-
 }
