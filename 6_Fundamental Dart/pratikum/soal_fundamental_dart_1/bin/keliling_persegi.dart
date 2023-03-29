@@ -1,5 +1,5 @@
 double persegi(double sisi) {
-  return sisi * sisi;
+  return 4 * sisi;
 }
 
 void main(List<String> arguments) {
